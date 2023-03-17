@@ -297,3 +297,21 @@
 11:52:06.715 [main] INFO  testCases.TC_001_AccountRegTest - ****Finished TC_001_AccountRegTest****
 11:52:10.764 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
 11:52:12.495 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest
+13:11:37.595 [main] INFO  testCases.TC_001_AccountRegTest - ****Starting TC_001_AccountRegTest****
+13:11:37.752 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on My Account link
+13:11:38.935 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Registration link
+13:11:38.948 [main] INFO  testCases.TC_001_AccountRegTest - Providing customer data
+13:11:39.567 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Continue Button
+13:11:40.508 [main] INFO  testCases.TC_001_AccountRegTest - Validating expected Message
+13:11:40.522 [main] INFO  testCases.TC_001_AccountRegTest - ****Finished TC_001_AccountRegTest****
+13:11:45.008 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:11:47.156 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest
+13:19:20.041 [main] INFO  testCases.TC_001_AccountRegTest - ****Starting TC_001_AccountRegTest****
+13:19:20.183 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on My Account link
+13:19:20.797 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Registration link
+13:19:20.800 [main] INFO  testCases.TC_001_AccountRegTest - Providing customer data
+13:19:21.510 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Continue Button
+13:19:22.192 [main] INFO  testCases.TC_001_AccountRegTest - Validating expected Message
+13:19:22.194 [main] INFO  testCases.TC_001_AccountRegTest - ****Finished TC_001_AccountRegTest****
+13:19:26.776 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+13:19:28.567 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest
