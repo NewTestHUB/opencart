@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="All Test Suite">
+
+    <test verbose="2" preserve-order="true" name="TC_001_AccountRegTest">
+        <parameter name="browser" value="chrome">
+            <classes>
+                <class name="testCases.TC_001_AccountRegTest">
+                    <methods>
+                        <include name="account_Registration"/>
+                    </methods>
+                </class>
+            </classes>
+        </parameter>
+    </test>
+
+
+</suite>
