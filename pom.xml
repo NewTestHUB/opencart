@@ -30,6 +30,7 @@
                     <configuration>
                         <suiteXmlFiles>
                             <suiteXmlFile>grouping.xml</suiteXmlFile>
+                            <suiteXmlFile></suiteXmlFile>
                         </suiteXmlFiles>
                     </configuration>
                 </plugin>

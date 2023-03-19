@@ -8,8 +8,8 @@
         <parameter name="browser" value="chrome">
             <groups>
                 <run>
-                    <include name="Master"/>
-<!--                    <include name="Sanity"/>-->
+<!--                    <include name="Master"/>-->
+                    <include name="Sanity"/>
 <!--                    <include name="Regression"/>-->
 <!--                    <exclude name="Master"/>-->
 <!--                    <exclude name="Sanity"/>-->
