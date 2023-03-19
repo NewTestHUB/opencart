@@ -383,3 +383,25 @@
 07:45:45.421 [main] INFO  testCases.TC_005_AddToCartTest - *** Finished TC_005_AddToCartTest ***
 07:48:27.699 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
 07:48:30.781 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest
+08:08:21.400 [main] INFO  testCases.TC_001_AccountRegTest - ****Starting TC_001_AccountRegTest****
+08:08:21.550 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on My Account link
+08:08:22.385 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Registration link
+08:08:22.387 [main] INFO  testCases.TC_001_AccountRegTest - Providing customer data
+08:08:23.045 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Continue Button
+08:08:23.991 [main] INFO  testCases.TC_001_AccountRegTest - Validating expected Message
+08:08:23.994 [main] INFO  testCases.TC_001_AccountRegTest - ****Finished TC_001_AccountRegTest****
+08:08:28.196 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+08:08:30.471 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest
+08:10:15.759 [main] INFO  testCases.TC_001_AccountRegTest - ****Starting TC_001_AccountRegTest****
+08:10:15.923 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on My Account link
+08:10:16.373 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Registration link
+08:10:16.375 [main] INFO  testCases.TC_001_AccountRegTest - Providing customer data
+08:10:17.006 [main] INFO  testCases.TC_001_AccountRegTest - Clicked on Continue Button
+08:10:17.658 [main] INFO  testCases.TC_001_AccountRegTest - Validating expected Message
+08:10:17.661 [main] INFO  testCases.TC_001_AccountRegTest - ****Finished TC_001_AccountRegTest****
+08:10:21.903 [main] INFO  testCases.TC_002_LoginTest - *** Starting TC_002_LoginTest ***
+08:10:24.244 [main] INFO  testCases.TC_002_LoginTest - *** Finished TC_002_LoginTest
+08:10:27.593 [main] INFO  testCases.TC_004_SearchTest - *** Starting TC_004_SearchTest ***
+08:10:29.921 [main] INFO  testCases.TC_004_SearchTest - *** Finished TC_004_SearchTest ***
+08:10:33.652 [main] INFO  testCases.TC_005_AddToCartTest - *** Starting TC_005_AddToCartTest ***
+08:10:35.523 [main] INFO  testCases.TC_005_AddToCartTest - *** Finished TC_005_AddToCartTest ***

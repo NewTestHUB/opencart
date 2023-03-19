@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC_004_SearchTest extends BaseClass {
 
-    @Test
+    @Test(groups = {"Sanity","Master"})
     public void test_SearchProduct() {
 
         logger.info("*** Starting TC_004_SearchTest ***");

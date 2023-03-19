@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC_005_AddToCartTest extends BaseClass {
 
-    @Test
+    @Test(groups = {"Sanity","Master"})
     public void test_addToCart() {
 
         logger.info("*** Starting TC_005_AddToCartTest ***");

@@ -8,8 +8,8 @@
         <parameter name="browser" value="chrome">
             <groups>
                 <run>
-<!--                    <include name="Master"/>-->
-                    <include name="Sanity"/>
+                    <include name="Master"/>
+<!--                    <include name="Sanity"/>-->
 <!--                    <include name="Regression"/>-->
 <!--                    <exclude name="Master"/>-->
 <!--                    <exclude name="Sanity"/>-->
@@ -27,6 +27,8 @@
 <!--                        <include name="test_Login"/>-->
 <!--                    </methods>-->
                 </class>
+                <class name="testCases.TC_004_SearchTest"/>
+                <class name="testCases.TC_005_AddToCartTest"/>
             </classes>
         </parameter>
     </test>
