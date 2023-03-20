@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
 <suite name="All Test Suite">
-
-    <test verbose="2" preserve-order="true" name="TC_001_AccountRegTest">
-        <parameter name="browser" value="chrome">
-            <classes>
-                <class name="testCases.TC_001_AccountRegTest">
-                    <methods>
-                        <include name="account_Registration"/>
-                    </methods>
-                </class>
-            </classes>
-        </parameter>
+    <listeners>
+        <listener class-name="utilities.ExtentReportManager"/>
+    </listeners>
+    <test verbose="2" preserve-order="true"
+          name="C:/Users/USER/IdeaProjects/opencart/src/test/java/testCases/TC_006_EndToEndTest.java">
+        <parameter name="browser" value="chrome"/>
+        <classes>
+            <class name="testCases.TC_006_EndToEndTest">
+                <methods>
+                    <include name="test_EndtoEnd"/>
+                </methods>
+            </class>
+        </classes>
     </test>
-
-
 </suite>

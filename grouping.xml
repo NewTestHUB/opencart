@@ -29,6 +29,7 @@
                 </class>
                 <class name="testCases.TC_004_SearchTest"/>
                 <class name="testCases.TC_005_AddToCartTest"/>
+                <class name="testCases.TC_006_EndToEndTest"/>
             </classes>
         </parameter>
     </test>

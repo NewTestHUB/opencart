@@ -75,7 +75,9 @@ public class Opencart_Search {
            e.getMessage();
        }
 
+       driver.findElement(By.xpath("//*[@id=\"header-cart\"]/div/button")).click();
 
-        driver.close();
+
+//        driver.close();
     }
 }
