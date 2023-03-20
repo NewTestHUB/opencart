@@ -8,7 +8,7 @@ import testBase.BaseClass;
 
 public class TC_006_EndToEndTest extends BaseClass {
 
-    @Test
+    @Test(groups = {"Regression","Master"})
     public void test_EndtoEnd() throws InterruptedException {
 
         logger.info("*** Starting TC_006_EndToEndTest ***");
